@@ -63,4 +63,12 @@
 		<a href="https://www.acmicpc.net/problem/10869">10869번</a> 두 자연수 A와 B가 주어진다. 이때, A+B, A-B, A*B, A/B(몫), A%B(나머지)를 출력하는 프로그램을 작성하시오. 
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_10869.java">(java 코드)</a>
 	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/10430">10430번</a> (A+B)%C는 ((A%C) + (B%C))%C 와 같을까? (A×B)%C는 ((A%C) × (B%C))%C 와 같을까?
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_10430.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/2588">2588번</a> 빈 칸에 들어갈 수는?
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_2588.java">(java 코드)</a>
+	</li>
 </ul>
