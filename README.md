@@ -35,4 +35,8 @@
 		<a href="https://www.acmicpc.net/problem/10718">10718번</a> 두 줄에 걸쳐 "강한친구 대한육군"을 한 줄에 한 번씩 출력한다.
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_10718.java">(java 코드)</a>
 	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/10171">10171번</a> 고양이를 출력하시오. -띄어쓰기 때문에 틀렸었음 주의!
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_10171.java">(java 코드)</a>
+	</li>
 </ul>
