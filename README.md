@@ -81,4 +81,20 @@
 		<a href="https://www.acmicpc.net/problem/1330">1330번</a> 두 수를 비교한 결과를 출력하는 문제
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/If/Q_1330.java">(java 코드)</a>
 	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/9498">9498번</a> 시험 점수를 성적으로 바꾸는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/If/Q_19498.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/2753">2753번</a> 윤년 - 윤년을 판별하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/If/Q_2753.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/14681">14681번</a> 사분면 고르기 - 점이 어느 사분면에 있는지 알아내는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/If/Q_14681.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/2884">2884번</a> 알람 시계 - 시간 뺄셈 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/If/Q_2884.java">(java 코드)</a>
+	</li>
 </ul>
