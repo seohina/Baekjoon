@@ -68,9 +68,9 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_10430.java">(java 코드)</a>
 	</li>
 	<li>
-	🔥
+	⭐
 		<a href="https://www.acmicpc.net/problem/2588">2588번</a> 빈 칸에 들어갈 수는?
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_2588.java">(java 코드)</a>
-	🔥
+	⭐
 	</li>
 </ul>
