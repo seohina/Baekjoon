@@ -43,4 +43,8 @@
 		<a href="https://www.acmicpc.net/problem/10172">10172번</a> 강아지를 출력하시오.
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_10172.java">(java 코드)</a>
 	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/1000">1000번</a> 두 수를 입력하고 덧셈 출력하기
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_1000.java">(java 코드)</a>
+	</li>
 </ul>
