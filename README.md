@@ -83,7 +83,7 @@
 	</li>
 	<li>
 		<a href="https://www.acmicpc.net/problem/9498">9498번</a> 시험 점수를 성적으로 바꾸는 문제
-		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/If/Q_19498.java">(java 코드)</a>
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/If/Q_9498.java">(java 코드)</a>
 	</li>
 	<li>
 		<a href="https://www.acmicpc.net/problem/2753">2753번</a> 윤년 - 윤년을 판별하는 문제
