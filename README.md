@@ -47,4 +47,8 @@
 		<a href="https://www.acmicpc.net/problem/1000">1000번</a> 두 수를 입력하고 덧셈 출력하기
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_1000.java">(java 코드)</a>
 	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/1001">1001번</a> 두 수를 입력하고 뺄셈 출력하기
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_1001.java">(java 코드)</a>
+	</li>
 </ul>
