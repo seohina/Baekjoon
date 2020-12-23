@@ -25,7 +25,8 @@
 
 ## 🔥 시작
 
-<h4>단계별로 풀어보기 - 입출력과 사칙연산 <a href="https://www.acmicpc.net/step/1"></a></h4>
+<h4>단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/1">입출력과 사칙연산</a>
+</h4>
 <ul>
 	<li>
 		<a href="https://www.acmicpc.net/problem/2557">2557번</a> Hello World
@@ -75,7 +76,7 @@
 	</li>
 </ul>
 
-<h4>단계별로 풀어보기 - if문</h4>
+<h4>단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/4">if문</a></h4>
 <ul>
 	<li>
 		<a href="https://www.acmicpc.net/problem/1330">1330번</a> 두 수를 비교한 결과를 출력하는 문제
