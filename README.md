@@ -39,4 +39,8 @@
 		<a href="https://www.acmicpc.net/problem/10171">10171번</a> 고양이를 출력하시오. -띄어쓰기 때문에 틀렸었음 주의!
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_10171.java">(java 코드)</a>
 	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/10172">10172번</a> 강아지를 출력하시오.
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/inputOutput/Q_10172.java">(java 코드)</a>
+	</li>
 </ul>
