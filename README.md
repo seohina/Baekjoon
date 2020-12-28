@@ -174,8 +174,8 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_2562.java">(java 코드)</a>
 	</li>
 	<li>
-		<a href="https://www.acmicpc.net/problem/2577">2577번</a> 각 숫자가 몇 번 나왔는지 저장하기 위해 일차원 배열을 만드는 문제
-		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_2577.java">(java 코드)</a>
+		⭐<a href="https://www.acmicpc.net/problem/2577">2577번</a> 각 숫자가 몇 번 나왔는지 저장하기 위해 일차원 배열을 만드는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_2577.java">(java 코드)</a>⭐
 	</li>	
 	<li>
 		<a href="https://www.acmicpc.net/problem/3052">3052번</a> 위와 비슷한 문제
