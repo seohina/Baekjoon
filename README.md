@@ -159,7 +159,7 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/While/Q_10951.java">(java 코드)</a>
 	</li>
 	<li>
-		<a href="https://www.acmicpc.net/problem/1110">1110번</a> 원래 수로 돌아올 때까지 연산을 반복하는 문제
-		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/While/Q_1110.java">(java 코드)</a>
+		⭐⭐<a href="https://www.acmicpc.net/problem/1110">1110번</a> 원래 수로 돌아올 때까지 연산을 반복하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/While/Q_1110.java">(java 코드)</a>⭐⭐
 	</li>	
 </ul>
