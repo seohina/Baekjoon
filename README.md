@@ -112,7 +112,7 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_10950.java">(java 코드)</a>
 	</li>
 	<li>
-		<a href="https://www.acmicpc.net/problem/8393">8393번</a> 1부터 N까지의 합을 구하는 문제. 물론 반복문 없이 풀 수도 있습니다.
+		<a href="https://www.acmicpc.net/problem/8393">8393번</a> 1부터 N까지의 합을 구하는 문제. 
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_8393.java">(java 코드)</a>
 	</li>
 	<li>
