@@ -101,3 +101,65 @@
 	⭐
 	</li>
 </ul>
+<h4>단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/3">for문</a></h4>
+<ul>
+	<li>
+		<a href="https://www.acmicpc.net/problem/2739">2739번</a> 구구단을 출력하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_2739.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/10950">10950번</a> A+B를 여러 번 출력하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_10950.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/8393">8393번</a> 1부터 N까지의 합을 구하는 문제. 물론 반복문 없이 풀 수도 있습니다.
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_8393.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/15552">15552번</a> 빠르게 입력받고 출력하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_15552.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/2741">2741번</a> 1부터 N까지 출력하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_2741.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/2742">2742번</a> N부터 1까지 한 줄에 하나씩 출력하는 프로그램을 작성하시오.
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_2742.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/11021">11021번</a> A+B를 조금 더 아름답게 출력하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_11021.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/11022">11022번</a> A+B를 바로 위 문제보다 아름답게 출력하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_11022.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/2438">2438번</a> 별을 찍는 문제 1
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_2438.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/2439">2439번</a> 별을 찍는 문제 2
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_2439.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/10871">10871번</a> for와 if를 같이 쓰는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_10871.java">(java 코드)</a>
+	</li>
+</ul>
+<h4>단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/2">while문</a></h4>
+<ul>
+	<li>
+		<a href="https://www.acmicpc.net/problem/10952">10952번</a> 0이 들어올 때까지 A+B를 출력하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/While/Q_10952.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/10951">10951번</a> 입력이 끝날 때까지 A+B를 출력하는 문제. EOF에 대해 알아 보세요.
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/While/Q_10951.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/1110">1110번</a> 원래 수로 돌아올 때까지 연산을 반복하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/While/Q_1110.java">(java 코드)</a>
+	</li>	
+</ul>
