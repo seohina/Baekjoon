@@ -163,3 +163,34 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/While/Q_1110.java">(java 코드)</a>⭐⭐
 	</li>	
 </ul>
+<h4>단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/6">1차원 배열</a></h4>
+<ul>
+	<li>
+		<a href="https://www.acmicpc.net/problem/10818">10818번</a> 최솟값과 최댓값을 찾는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_10818.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/2562">2562번</a> 최댓값이 어디에 있는지 찾는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_2562.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/2577">2577번</a> 각 숫자가 몇 번 나왔는지 저장하기 위해 일차원 배열을 만드는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_2577.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/3052">3052번</a> 위와 비슷한 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_3052.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/1546">1546번</a> 평균을 조작하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_1546.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/8958">8958번</a> OX 퀴즈의 결과를 일차원 배열로 입력받아 점수를 계산하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_8958.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/4344">4344번</a> 평균은 넘겠지
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_4344.java">(java 코드)</a>
+	</li>	
+</ul>
