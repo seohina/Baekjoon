@@ -115,12 +115,10 @@
 		<a href="https://www.acmicpc.net/problem/8393">8393번</a> 1부터 N까지의 합을 구하는 문제. 
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_8393.java">(java 코드)</a>
 	</li>
-	⭐
 	<li>
-		<a href="https://www.acmicpc.net/problem/15552">15552번</a> 빠르게 입력받고 출력하는 문제
-		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_15552.java">(java 코드)</a>
+		⭐<a href="https://www.acmicpc.net/problem/15552">15552번</a> 빠르게 입력받고 출력하는 문제
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_15552.java">(java 코드)</a>⭐
 	</li>
-	⭐
 	<li>
 		<a href="https://www.acmicpc.net/problem/2741">2741번</a> 1부터 N까지 출력하는 문제
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/For/Q_2741.java">(java 코드)</a>
