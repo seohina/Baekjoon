@@ -194,3 +194,18 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_4344.java">(java 코드)</a>
 	</li>	
 </ul>
+<h4> 단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/5">함수</a></h4> 
+<ul>
+	<li>
+		<a href="https://www.acmicpc.net/problem/15596">15596번</a> 정수 N개의 합
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_15596.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/4673">4673번</a> 셀프 넘버
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_4673.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/1065">1065번</a>	한수
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_1065.java">(java 코드)</a>
+	</li>	
+</ul>
