@@ -163,7 +163,7 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/While/Q_1110.java">(java 코드)</a>⭐⭐
 	</li>	
 </ul>
-❗ <h4>단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/6">1차원 배열</a></h4>❗ 
+<h4>❗ 단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/6">1차원 배열</a>❗ </h4> 
 <ul>
 	<li>
 		<a href="https://www.acmicpc.net/problem/10818">10818번</a> 최솟값과 최댓값을 찾는 문제
