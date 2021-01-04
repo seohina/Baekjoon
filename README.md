@@ -201,11 +201,11 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_15596.java">(java 코드)</a>
 	</li>
 	<li>
-		<a href="https://www.acmicpc.net/problem/4673">4673번</a> 셀프 넘버
-		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_4673.java">(java 코드)</a>
+		⭐⭐<a href="https://www.acmicpc.net/problem/4673">4673번</a> 셀프 넘버
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_4673.java">(java 코드)</a>⭐⭐
 	</li>
 	<li>
-		<a href="https://www.acmicpc.net/problem/1065">1065번</a>	한수
-		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_1065.java">(java 코드)</a>
+		⭐<a href="https://www.acmicpc.net/problem/1065">1065번</a>	한수
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_1065.java">(java 코드)</a>⭐
 	</li>	
 </ul>
