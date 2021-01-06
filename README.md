@@ -194,7 +194,7 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Array/Q_4344.java">(java 코드)</a>
 	</li>	
 </ul>
-<h4> 단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/5">함수</a> 나중에 하기</h4> 
+<h4> 단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/5">함수</a> ❗ 나중에 하기❗ </h4> 
 <ul>
 	<li>
 		<a href="https://www.acmicpc.net/problem/15596">15596번</a> 정수 N개의 합
