@@ -201,12 +201,12 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_15596.java">(java 코드)</a>
 	</li>
 	<li>
-		⭐⭐<a href="https://www.acmicpc.net/problem/4673">4673번</a> 셀프 넘버
-		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_4673.java">(java 코드)</a>⭐⭐
+		<a href="https://www.acmicpc.net/problem/4673">4673번</a> 셀프 넘버
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_4673.java">(java 코드)</a>
 	</li>
 	<li>
-		⭐<a href="https://www.acmicpc.net/problem/1065">1065번</a>	한수
-		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_1065.java">(java 코드)</a>⭐
+		<a href="https://www.acmicpc.net/problem/1065">1065번</a>	한수
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_1065.java">(java 코드)</a>
 	</li>	
 </ul>
 <h4> 단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/7">문자열</a></h4> 
