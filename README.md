@@ -209,3 +209,46 @@
 		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/Function/Q_1065.java">(java 코드)</a>⭐
 	</li>	
 </ul>
+<h4> 단계별로 풀어보기 - <a href="https://www.acmicpc.net/step/7">문자열</a></h4> 
+<ul>
+	<li>
+		<a href="https://www.acmicpc.net/problem/11654">11654번</a> 아스키 코드
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/String/Q_11654.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/11720">11720번</a> 숫자의 합
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/String/Q_11720.java">(java 코드)</a>
+	</li>
+	<li>
+		<a href="https://www.acmicpc.net/problem/10809">10809번</a> 알파벳 찾기
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/String/Q_10809.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/2675">2675번</a> 문자열 반복
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/String/Q_2675.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/1157">1157번</a> 	단어 공부
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/String/Q_1157.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/1152">1152번</a> 	단어의 개수
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/String/Q_1152.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/2908">2908번</a> 상수
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/String/Q_2908.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/5622">5622번</a> 	다이얼
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/String/Q_5622.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/2941">2941번</a> 크로아티아 알파벳
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/String/Q_2941.java">(java 코드)</a>
+	</li>	
+	<li>
+		<a href="https://www.acmicpc.net/problem/1316">1316번</a> 그룹 단어 체커
+		<a href="https://github.com/seohina/Baekjoon/blob/main/Baekjoon/src/String/Q_1316.java">(java 코드)</a>
+	</li>	
+</ul>
