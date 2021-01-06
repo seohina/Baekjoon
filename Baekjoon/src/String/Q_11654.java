@@ -8,8 +8,8 @@ public class Q_11654 {
 		Scanner sc = new Scanner(System.in);
 		
 		String a = sc.nextLine();
-		int ch = a.charAt(0);
-		System.out.println(ch);
+		int n = a.charAt(0);
+		System.out.println(n);
 
 	}
 
